@@ -5,4 +5,4 @@ This application is a small demo of speech recognition in live audio. This is si
 
  ![alt-text](https://github.com/vijayeshcs/Dictation/blob/main/dictation_example.gif)
  
- Work in progress.
+
